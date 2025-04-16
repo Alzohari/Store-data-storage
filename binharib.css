@@ -1,0 +1,91 @@
+/* Add custom CSS styles below */ 
+/* .search-btn.header-btn.flex.da-fm{display:none; !important;}*/
+.flex.items-stretch.justify-between.relative .flex.items-center.justify-start{    flex-direction: row-reverse;}
+.w-1\/3 {
+    width: auto;
+}
+.s-search-modal .s-modal-wrapper .s-modal-body .s-search-container .s-search-input {
+    POSITION: ABSOLUTE;
+    --tw-bg-opacity: 1;
+    background-color: rgba(255,255,255,var(--tw-bg-opacity));
+    Z-INDEX: 5888888888;
+    TOP: 0;
+    LEFT: 0;
+}
+/*
+body {
+    background-color: #f5f5f5;
+    background-image: conic-gradient(from 180deg at 50% 50%, #FFFFFF 0deg, #000000 51.64deg, #FFFFFF 79.77deg, #000000 141.65deg, #FFFFFF 194.15deg, #000000 254.15deg, #FFFFFF 286.03deg, #000000 331.03deg, #FFFFFF 360deg), conic-gradient(from 180deg at 50% 50%, #FFFFFF 0deg, #000000 51.64deg, #FFFFFF 79.77deg, #000000 141.65deg, #FFFFFF 194.15deg, #000000 254.15deg, #FFFFFF 286.03deg, #000000 331.03deg, #FFFFFF 360deg), radial-gradient(95% 95% at 36.4% 1.4%, #3e3fd9 0%, #FEDD32 20.64%, rgba(247, 176, 247, 0.850701) 42.07%, #EEAC7C 62.26%, #F6F17E 80.49%, #79A2F2 100%);
+    background-blend-mode: screen, difference, normal;
+   background-size: 100vh 100vh;
+    background-attachment: fixed;
+}
+ @media (min-width:750px) {
+        body{
+        background-size: cover;
+        }
+    }
+    */
+   .s-product-card-image-contain {
+    width: 100%;
+    -o-object-fit: contain;
+    object-fit: fill;
+} 
+    
+    
+    
+    
+.s-product-card-wishlist-btn,.s-product-card-vertical .s-product-card-wishlist-btn button {
+    border-radius: 0px 50px 50px 0px !important;
+    background: #d69f37 !important;
+    padding: .25rem !important;
+    margin-left: -.5rem;
+}
+.s-product-card-content-footer salla-add-product-button .s-button-primary {
+    color: var(--text-btn);
+    border-radius: 50px 0 0 50px;
+    margin-right: -.5rem;
+    margin-bottom: 0rem;
+} 
+.s-product-card-vertical .s-product-card-wishlist-btn {
+    position: absolute;
+    top: .5rem;
+    right: .5rem;
+    opacity: 1;
+}
+  .s-product-card-category, .s-product-card-brand {
+    background-color: rgb(211 161 66);
+    border-radius: 50px 0 0 50px;
+    margin-right: -.5rem;
+    margin-bottom: 0rem;
+    border-radius: 50px 0 0 50px;
+    margin-right: -.5rem;
+    margin-bottom: 0rem;
+    border-right-color: #0e82e1;
+    border-right-width: 2px;
+}  
+    
+    
+    
+    .store-footer .footer-container .logo-footer .foo {
+    max-height: 126px;
+    max-width: 139px;
+    margin-bottom: .5re;
+    width: 100%;
+}
+  custom-salla-product-card.rounded-lg {
+    border-radius: 20px 0 !important;
+}  
+   .s-product-card-category, .s-product-card-brand {
+    background-color: rgb(211 161 66);
+} 
+.dman{color: red;
+    border-radius: 11px;
+    border: 2px #0e82e1 solid;
+    padding: 11px;
+    background: white;}    
+    
+    .text-gray-400 {
+    --tw-text-opacity: 1;
+    color: rgb(23 111 182);
+}
